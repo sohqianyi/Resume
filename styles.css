@@ -1,0 +1,63 @@
+body {
+    background-color: #EED6D3;
+    font-family: Trebuchet MS; 
+    text-align: center;
+    color: #A49393;
+    font-size: 1.1vw;
+  }
+img{
+    width: 10%;
+}
+  h1 {
+    color: #67595E;
+    font-size: 4vw;
+  }
+  h2 {
+    color: white;
+    text-align: center;
+    font-size: 1.25vw;
+
+  }
+  h3{
+      text-align: left;
+      color: #918282;
+  }
+  h4, p.a {
+      text-align: left;
+  }
+  a{
+    color: #A49393;
+    font-size: 1.1vw;
+  }
+  ul{
+      list-style-type: square;
+      text-align: left;
+  }
+  span{
+    float: right; 
+  }
+
+  button{
+    background-color: #A49393;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+  }
+  .active, button:hover {
+    background-color: #67595E;
+  }
+  
+  .content {
+    padding: 18px;
+    display: none;
+    overflow: hidden;
+  }
+
+  .divider{
+    width: auto;
+    height: 20px;
+  }
